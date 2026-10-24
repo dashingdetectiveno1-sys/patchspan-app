@@ -1,0 +1,9 @@
+# Problem evidence log (secondary sources, fetched 2026-10-16)
+- India textile waste: ~7,793 ktons/yr; pre-consumer 42%; garment cutting waste 792.2 ktons/yr, mostly small pieces ("katran/chindi") - Saahas Zero Waste, "Wealth in Waste" report. https://www.saahaszerowaste.com/explore/reports-and-case-study/Sorting-for-Circularity-Wealth-in-Waste.pdf
+- ~900,000 tonnes/yr textile cutting waste in India; 73% of textile waste ends in landfill - GIZ factsheet. https://www.giz.de/en/downloads/giz2023-en-factsheet-building-an-inclusive-and-circular-textile-waste-value-chain-in-india.pdf
+- Ludhiana hosiery cutting waste is traded by weight as scrap - IndiaMART listings. https://dir.indiamart.com/ludhiana/hosiery-waste.html
+# Ludhiana-local sources (added 2026-10-21)
+- Knitwear units in Ludhiana: cutting left-overs a main waste stream; all 10 surveyed units sell waste fabric to rag collectors; 4/10 dispose of or burn it; top barrier to utilization = lack of designing knowledge (80%), time (70%), skills (60%) - Kaur, Yadav, Rose & Bisht, "Waste Management Cognizance in Knitwear Units of Ludhiana", Pollution Research 42(1):110-115 (2023), DOI 10.53550/PR.2023.v42i01.017. https://www.envirobiotechjournals.com/PR/vol42issue1/Poll%20Res-17.pdf
+- Ludhiana is India's largest textile manufacturing hub; CEEW baseline assessment of pre-consumer textile waste surveyed ~350-400 Ludhiana textile units - BRIEF project page. https://www.briefindia.com/baseline-assessment-of-pre-consumer-textile-waste-management-ludhiana/
+# First-hand evidence status
+- Rules (checked 2026-10-21, https://neighborhood-hacks-2026.devpost.com/rules): the required answer accepts "what you personally observed, who you talked to, or what data you found". The submission answers with data and states its limits. A real observation from the user remains an optional extra to add if it arrives before submission - do not invent one.
